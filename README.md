@@ -1,2 +1,0 @@
-# ConversordeMoedas
-Desafio One
